@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Sumerskaya_UN_personal_blog/static/css/main.3ac19965.css",
+    "main.js": "/Sumerskaya_UN_personal_blog/static/js/main.ba75a232.js",
+    "static/media/photo10.jpg": "/Sumerskaya_UN_personal_blog/static/media/photo10.80769fd6f9dcbdffd636.jpg",
+    "static/media/photo1.jpg": "/Sumerskaya_UN_personal_blog/static/media/photo1.e4325388e33a9a206ba1.jpg",
+    "static/media/photo7.jpg": "/Sumerskaya_UN_personal_blog/static/media/photo7.df0b80ea8b3769787930.jpg",
+    "static/media/photo5.jpg": "/Sumerskaya_UN_personal_blog/static/media/photo5.a51d7ffb7b6d6ed6ee43.jpg",
+    "static/media/photo6.jpg": "/Sumerskaya_UN_personal_blog/static/media/photo6.08d60a88d9258fda2298.jpg",
+    "static/media/2.png": "/Sumerskaya_UN_personal_blog/static/media/2.9c18e9050bcd49506965.png",
+    "static/media/3.png": "/Sumerskaya_UN_personal_blog/static/media/3.384ed0f0a06786171d36.png",
+    "static/media/1.png": "/Sumerskaya_UN_personal_blog/static/media/1.2d23d044ff9a6ba801a9.png",
+    "static/media/post2.png": "/Sumerskaya_UN_personal_blog/static/media/post2.2bd96e430fe6fa62386e.png",
+    "static/media/certif_1.png": "/Sumerskaya_UN_personal_blog/static/media/certif_1.ef2bd2cf82ae9c06f551.png",
+    "static/media/post1.png": "/Sumerskaya_UN_personal_blog/static/media/post1.b6ce9669a1427e6a5f71.png",
+    "static/media/photo4.jpeg": "/Sumerskaya_UN_personal_blog/static/media/photo4.91a97d9f6eb4239c9d76.jpeg",
+    "static/media/photo3.jpeg": "/Sumerskaya_UN_personal_blog/static/media/photo3.5d4a8f2f3328b2ca9e63.jpeg",
+    "static/media/photo8.jpeg": "/Sumerskaya_UN_personal_blog/static/media/photo8.03e301b02be973ebe4a4.jpeg",
+    "static/media/photo9.jpeg": "/Sumerskaya_UN_personal_blog/static/media/photo9.868ccffc2fbb991ba56b.jpeg",
+    "static/media/photo2.jpeg": "/Sumerskaya_UN_personal_blog/static/media/photo2.692fd92184bbcad14a8e.jpeg",
+    "static/media/photo.jpg": "/Sumerskaya_UN_personal_blog/static/media/photo.08c622f77abc510fc7e2.jpg",
+    "static/media/certif.jpg": "/Sumerskaya_UN_personal_blog/static/media/certif.10f1cca4ee77d449f8f6.jpg",
+    "static/media/ru.png": "/Sumerskaya_UN_personal_blog/static/media/ru.661726accf3730785b9b.png",
+    "static/media/math.png": "/Sumerskaya_UN_personal_blog/static/media/math.27c7fd64545a336c43f9.png",
+    "static/media/contacts_img.png": "/Sumerskaya_UN_personal_blog/static/media/contacts_img.c26e29b331fc4815d118.png",
+    "static/media/404.png": "/Sumerskaya_UN_personal_blog/static/media/404.cb8f6f9911ca591c7717.png",
+    "static/media/insta.svg": "/Sumerskaya_UN_personal_blog/static/media/insta.d028f8115bd52925df91cb6c9361722e.svg",
+    "static/media/vk.svg": "/Sumerskaya_UN_personal_blog/static/media/vk.107b9db19b0e8f15d6063b421e14ff82.svg",
+    "static/media/phone.svg": "/Sumerskaya_UN_personal_blog/static/media/phone.5c1b832edd52243dca31905f8ba83345.svg",
+    "index.html": "/Sumerskaya_UN_personal_blog/index.html",
+    "static/media/mail.svg": "/Sumerskaya_UN_personal_blog/static/media/mail.f98b538a481b64f20670cf1559557419.svg",
+    "static/media/site.svg": "/Sumerskaya_UN_personal_blog/static/media/site.e571dfa36fa129b59f4bb00a073446be.svg",
+    "static/media/location.svg": "/Sumerskaya_UN_personal_blog/static/media/location.688ee5107673b08dc46ebf882c7adba7.svg",
+    "static/media/menu.svg": "/Sumerskaya_UN_personal_blog/static/media/menu.ac5ca997020532c3566b7e2a1ee004ff.svg",
+    "main.3ac19965.css.map": "/Sumerskaya_UN_personal_blog/static/css/main.3ac19965.css.map",
+    "main.ba75a232.js.map": "/Sumerskaya_UN_personal_blog/static/js/main.ba75a232.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ac19965.css",
+    "static/js/main.ba75a232.js"
+  ]
+}
