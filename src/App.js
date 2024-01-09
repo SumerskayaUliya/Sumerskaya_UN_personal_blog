@@ -7,22 +7,14 @@ import BlogPage from './pages/BlogPage/BlogPage';
 import ContactPage from './pages/ContactPage/ContactPage';
 import Footer from './components/Footer/Footer';
 import NotFoudPage from './pages/NotFoundPage/NotFoudPage';
-import SingleWorkPage from './pages/SingleWorkPage/SingleWorkPage';
 import { useEffect } from 'react';
+import School from './pages/School/School';
 
 function App() {
-
   const { pathname } = useLocation();
-
   useEffect(() => {
     window.scrollTo(0, 0);
-
-    if (pathname === '/') {
-      document.title = "BLOG"
-    } else {
-      document.title = `${pathname.slice(1).toUpperCase()}`
-    }
-  }, [pathname]);
+  }, [pathname])
 
   return (
     <>
@@ -30,8 +22,8 @@ function App() {
       <Routes>
         <Route path='/' element={<HomePage />} />
         <Route path='/works' element={<WorksPage />} />
-        <Route path='/work/:id' element={<SingleWorkPage />} />
         <Route path='/blog' element={<BlogPage />} />
+        <Route path='/school_life' element={<School />} />
         <Route path='/contacts' element={<ContactPage />} />
         <Route path='*' element={<NotFoudPage />} />
       </Routes>

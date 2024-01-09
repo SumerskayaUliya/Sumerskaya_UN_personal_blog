@@ -4,11 +4,16 @@
 .container {
     max-width: var(--single-page-size);
     margin: 0 auto;
-    padding: 90px 0 50px;
+    padding: 130px 0 50px;
 }
 
 @media (max-width: 900px) {
     .container {
         max-width: var(--single-page-size-mob);
+    }
+}
+@media (max-width: 700px) {
+    .container {
+            padding: 100px 0 50px;
     }
 }

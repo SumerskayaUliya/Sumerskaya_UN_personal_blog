@@ -11,7 +11,7 @@ const NotFoudPage = () => {
             <div className={s.container}>
                 <img className={s.img} src={errorPage} alt="error_page_image" />
                 <p className={s.text}>Page Not Found!</p>
-                <Button text={'GO BACK'} callback={moveBack} />
+                <Button callback={moveBack} >Вернуться назад</Button>
             </div>
         </div>
     );

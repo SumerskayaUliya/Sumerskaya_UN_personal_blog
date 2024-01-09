@@ -1,9 +1,9 @@
 import s from './Button.module.css'
 
-const Button = ({ text, style, callback }) => {
+const Button = ({ style, callback, children }) => {
     return (
         <button className={s.btn} onClick={callback} style={style}>
-            {text}
+            {children}
         </button>
     );
 };

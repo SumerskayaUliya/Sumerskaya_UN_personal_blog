@@ -7,7 +7,7 @@ const ContactPage = () => {
         <div className={s.page}>
             <div className={s.container}>
                 <div className={s.form_block}>
-                    <h1 className={s.title}>Get in Touch</h1>
+                    <h1 className={s.title}>Форма обратной связи</h1>
                     <form className={s.form}>
                         <input
                             className={s.input_text}
@@ -28,7 +28,7 @@ const ContactPage = () => {
                             rows={5}
                         >
                         </textarea>
-                        <Button text={'SEND'} style={{ width: "50%", alignSelf: "center" }} />
+                        <Button style={{ width: "50%", alignSelf: "center" }} >ОТПРАВИТЬ</Button>
                     </form>
                 </div>
                 <img className={s.img} src={img} alt="" />

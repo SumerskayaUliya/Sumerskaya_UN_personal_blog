@@ -8,7 +8,7 @@ const WorksPage = () => {
     return (
         <div className={s.page}>
             <div className={s.container}>
-                <Title text={'Works'} />
+                <Title text={'Рабочние программы'} />
                 <div className={s.works_wrapper}>
                     {
                         work_data.map(el => <Work key={el.id} {...el} />)

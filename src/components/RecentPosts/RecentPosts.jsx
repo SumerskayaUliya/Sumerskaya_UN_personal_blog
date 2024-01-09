@@ -9,12 +9,12 @@ const RecentPosts = () => {
     return (
         <section className={s.container}>
             <div className={s.heading}>
-                <h2>Recent posts</h2>
+                <h2>Недавние публикации</h2>
                 <button
                     className={s.link_to_blog}
                     onClick={() => navigation('/blog')}
                 >
-                    View all
+                    Посмотреть все
                 </button>
             </div>
             <div className={s.posts_wrapper}>

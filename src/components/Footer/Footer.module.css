@@ -1,18 +1,30 @@
 .footer {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    gap: 25px;
-    height: 180px;
+  display: flex;
+
+  flex-direction: column;
+  gap: 25px;
+  height: 180px;
+  max-width: var(--content-size);
+  margin: 0 auto;
+}
+.contacts {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
 }
 .soc_media {
-    display: flex;
-    gap: 35px;
+  width: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 35px;
+  border-top: 1px solid #e0e0e0;
+  padding-top: 30px;
 }
 .copyright {
-    color: var(--dark-color);
-    text-align: center;
-    font-size: 14px;
-    font-weight: 400;
+  color: var(--dark-color);
+  text-align: center;
+  font-size: 14px;
+  font-weight: 400;
 }
+
