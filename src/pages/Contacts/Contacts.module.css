@@ -33,25 +33,7 @@
   display: flex;
   gap: 30px;
 }
-.diploms_block {
-  max-width: 100%;
-  height: max-content;
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  align-content: center;
-  gap: 20px 0;
-}
-.deti {
-  max-width: calc(100% / 2 - 20px);
-  margin: 0 auto;
-}
-.deti img{
-  width: 100%;
-  height: 100%;
-  object-fit: contain;
-  border-radius: 10px;
-}
+
 @media (max-width: 900px) {
   .container {
     max-width: var(--single-page-size-mob);
@@ -69,14 +51,8 @@
     font-size: 16px;
   }
   .subtitile {
-    font-size: 24px;
-    font-weight: 500;
-    line-height: 30px;
-  }
-  .deti{
-    width: 90%;
-  }
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 30px;
 }
-.mt{
-  margin-top: 80px;
 }

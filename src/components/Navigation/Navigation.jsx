@@ -6,7 +6,8 @@ const Navigation = ({ active }) => {
         { id: 1, title: 'Обо мне', link: '' },
         { id: 2, title: 'Методическая копилка', link: 'works' },
         { id: 3, title: 'Публикации', link: 'blog' },
-        { id: 4, title: 'Школьная жизнь', link: 'school_life' }
+        { id: 4, title: 'Школьная жизнь', link: 'school_life' },
+        { id: 4, title: 'Контакты', link: 'contacts' }
     ]
     const changeClass = ({ isActive }) => isActive ? [s.nav_link, s.active].join(' ') : s.nav_link
 

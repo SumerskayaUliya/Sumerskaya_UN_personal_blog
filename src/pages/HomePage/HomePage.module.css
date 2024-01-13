@@ -18,7 +18,8 @@
 }
 .items img {
   width: calc(100% / 3 - 20px);
-  border: 1px solid var(--primary);
+  border: 1px solid #8695a4;
+  border-radius: 10px;
 }
 
 .subtitile {

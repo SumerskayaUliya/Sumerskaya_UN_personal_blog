@@ -9,6 +9,7 @@ import Footer from './components/Footer/Footer';
 import NotFoudPage from './pages/NotFoundPage/NotFoudPage';
 import { useEffect } from 'react';
 import School from './pages/School/School';
+import Contacts from './pages/Contacts/Contacts';
 
 function App() {
   const { pathname } = useLocation();
@@ -24,7 +25,8 @@ function App() {
         <Route path='/works' element={<WorksPage />} />
         <Route path='/blog' element={<BlogPage />} />
         <Route path='/school_life' element={<School />} />
-        <Route path='/contacts' element={<ContactPage />} />
+        <Route path='/contacts' element={<Contacts/>} />
+        <Route path='/feedback' element={<ContactPage />} />
         <Route path='*' element={<NotFoudPage />} />
       </Routes>
       <Footer />

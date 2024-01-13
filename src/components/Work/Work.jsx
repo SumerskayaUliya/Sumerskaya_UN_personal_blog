@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 import s from './Work.module.css'
 
-const Work = ({ id, main_img, title, year, text, link }) => {
+const Work = ({ id, main_img, title, year, link }) => {
 
     return (
         <div className={s.item}>
@@ -14,7 +14,6 @@ const Work = ({ id, main_img, title, year, text, link }) => {
                     <span className={s.year}>{year}</span>
                     <a href={link} className={s.tag} target='_blanc'>Посмотреть документ</a>
                 </div>
-                <p className={s.text}>{text}</p>
             </div>
         </div>
     );
