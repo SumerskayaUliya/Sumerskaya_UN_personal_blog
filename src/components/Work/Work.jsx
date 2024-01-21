@@ -1,4 +1,3 @@
-import { Link } from 'react-router-dom';
 import s from './Work.module.css'
 
 const Work = ({ id, main_img, title, year, link }) => {

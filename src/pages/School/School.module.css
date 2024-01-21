@@ -52,6 +52,11 @@
   object-fit: contain;
   border-radius: 10px;
 }
+
+.mt{
+  margin-top: 80px;
+}
+
 @media (max-width: 900px) {
   .container {
     max-width: var(--single-page-size-mob);
@@ -74,9 +79,6 @@
     line-height: 30px;
   }
   .deti{
-    width: 90%;
+    max-width: 90%;
   }
-}
-.mt{
-  margin-top: 80px;
 }

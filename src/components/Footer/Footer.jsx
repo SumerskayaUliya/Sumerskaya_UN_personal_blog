@@ -2,7 +2,6 @@ import s from './Footer.module.css'
 import mail from '../../assets/mail.svg'
 import insta from '../../assets/insta.svg'
 import vk from '../../assets/vk.svg'
-import { useNavigate } from 'react-router';
 
 const Footer = () => {
 
@@ -16,7 +15,7 @@ const Footer = () => {
                     <a href="https://www.instagram.com/un_sumerskaya?igsh=NTc4MTIwNjQ2YQ==" target="_blank" rel="noreferrer">
                         <img src={insta} alt="instagram_icon" />
                     </a>
-                    <a href="" target="_blank" rel="noreferrer">
+                    <a href="/" target="_blank" rel="noreferrer">
                         <img src={vk} alt="vk_icon" />
                     </a>
                 </div>
