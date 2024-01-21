@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Sumerskaya_UN_personal_blog/static/css/main.ff325217.css",
-    "main.js": "/Sumerskaya_UN_personal_blog/static/js/main.f67997b8.js",
+    "main.css": "/Sumerskaya_UN_personal_blog/static/css/main.433db999.css",
+    "main.js": "/Sumerskaya_UN_personal_blog/static/js/main.3f54b78e.js",
     "static/media/photo10.jpg": "/Sumerskaya_UN_personal_blog/static/media/photo10.80769fd6f9dcbdffd636.jpg",
     "static/media/photo1.jpg": "/Sumerskaya_UN_personal_blog/static/media/photo1.e4325388e33a9a206ba1.jpg",
     "static/media/photo7.jpg": "/Sumerskaya_UN_personal_blog/static/media/photo7.df0b80ea8b3769787930.jpg",
@@ -16,23 +16,35 @@
     "static/media/1.jpeg": "/Sumerskaya_UN_personal_blog/static/media/1.4fde04a094c385163c53.jpeg",
     "static/media/svidet.jpeg": "/Sumerskaya_UN_personal_blog/static/media/svidet.f0b3afc2649e44a60e08.jpeg",
     "static/media/svidet1.jpeg": "/Sumerskaya_UN_personal_blog/static/media/svidet1.d971a63745f2526428b6.jpeg",
+    "static/media/deti11.jpeg": "/Sumerskaya_UN_personal_blog/static/media/deti11.841aa5bb1ee63dcb6b9c.jpeg",
     "static/media/6.jpeg": "/Sumerskaya_UN_personal_blog/static/media/6.97d261620001d45da20f.jpeg",
+    "static/media/deti8.jpeg": "/Sumerskaya_UN_personal_blog/static/media/deti8.4ef2945dac2611387889.jpeg",
     "static/media/3.jpeg": "/Sumerskaya_UN_personal_blog/static/media/3.425706cdd4e35fa4fb62.jpeg",
+    "static/media/deti17.jpeg": "/Sumerskaya_UN_personal_blog/static/media/deti17.e32338bdd533a938d922.jpeg",
     "static/media/7.jpeg": "/Sumerskaya_UN_personal_blog/static/media/7.0b7557e01b627d453b9d.jpeg",
+    "static/media/deti15.jpeg": "/Sumerskaya_UN_personal_blog/static/media/deti15.e051aad1890578de8404.jpeg",
     "static/media/2.jpeg": "/Sumerskaya_UN_personal_blog/static/media/2.6c2bddace701bce21ebb.jpeg",
     "static/media/5.jpeg": "/Sumerskaya_UN_personal_blog/static/media/5.7cd1198b49f0e352a83b.jpeg",
     "static/media/deti1.jpeg": "/Sumerskaya_UN_personal_blog/static/media/deti1.daa0e0951cd0d112c046.jpeg",
+    "static/media/deti6.jpeg": "/Sumerskaya_UN_personal_blog/static/media/deti6.9993b50c4e92516d22a1.jpeg",
     "static/media/4.jpeg": "/Sumerskaya_UN_personal_blog/static/media/4.0c3cb132db62d5f65277.jpeg",
     "static/media/photo4.jpeg": "/Sumerskaya_UN_personal_blog/static/media/photo4.91a97d9f6eb4239c9d76.jpeg",
     "static/media/8.jpeg": "/Sumerskaya_UN_personal_blog/static/media/8.768375f948aa71f0f67b.jpeg",
+    "static/media/deti16.jpeg": "/Sumerskaya_UN_personal_blog/static/media/deti16.c96df1d8322ce7de84b0.jpeg",
     "static/media/svidet2.jpeg": "/Sumerskaya_UN_personal_blog/static/media/svidet2.600d1ff1f13b08662692.jpeg",
     "static/media/photo3.jpeg": "/Sumerskaya_UN_personal_blog/static/media/photo3.5d4a8f2f3328b2ca9e63.jpeg",
     "static/media/diplom2.jpeg": "/Sumerskaya_UN_personal_blog/static/media/diplom2.ca345effd14a8c790b92.jpeg",
     "static/media/photo8.jpeg": "/Sumerskaya_UN_personal_blog/static/media/photo8.03e301b02be973ebe4a4.jpeg",
+    "static/media/deti12.jpeg": "/Sumerskaya_UN_personal_blog/static/media/deti12.0fae164add15370896e5.jpeg",
     "static/media/photo9.jpeg": "/Sumerskaya_UN_personal_blog/static/media/photo9.868ccffc2fbb991ba56b.jpeg",
+    "static/media/deti10.jpeg": "/Sumerskaya_UN_personal_blog/static/media/deti10.bd82ef6e32083fa5f22d.jpeg",
     "static/media/deti2.jpeg": "/Sumerskaya_UN_personal_blog/static/media/deti2.87f8ff026e2211cfcede.jpeg",
     "static/media/deti3.jpeg": "/Sumerskaya_UN_personal_blog/static/media/deti3.ff0a6a35450dd5fe02df.jpeg",
+    "static/media/deti9.jpeg": "/Sumerskaya_UN_personal_blog/static/media/deti9.7b90f5f0f1b05455e601.jpeg",
     "static/media/photo2.jpeg": "/Sumerskaya_UN_personal_blog/static/media/photo2.692fd92184bbcad14a8e.jpeg",
+    "static/media/deti13.jpeg": "/Sumerskaya_UN_personal_blog/static/media/deti13.57bafc462ebe5d1bf450.jpeg",
+    "static/media/deti14.jpeg": "/Sumerskaya_UN_personal_blog/static/media/deti14.339a726783dc9d1abc19.jpeg",
+    "static/media/deti7.jpeg": "/Sumerskaya_UN_personal_blog/static/media/deti7.5496a9230d1a6a5fcd40.jpeg",
     "static/media/diplom1.jpeg": "/Sumerskaya_UN_personal_blog/static/media/diplom1.61d887c822042c42afc8.jpeg",
     "static/media/gramota1.jpeg": "/Sumerskaya_UN_personal_blog/static/media/gramota1.23468fe65f062d39313b.jpeg",
     "static/media/deti5.jpeg": "/Sumerskaya_UN_personal_blog/static/media/deti5.278178e3596605482cb8.jpeg",
@@ -53,11 +65,11 @@
     "static/media/site.svg": "/Sumerskaya_UN_personal_blog/static/media/site.e571dfa36fa129b59f4bb00a073446be.svg",
     "static/media/location.svg": "/Sumerskaya_UN_personal_blog/static/media/location.688ee5107673b08dc46ebf882c7adba7.svg",
     "static/media/menu.svg": "/Sumerskaya_UN_personal_blog/static/media/menu.ac5ca997020532c3566b7e2a1ee004ff.svg",
-    "main.ff325217.css.map": "/Sumerskaya_UN_personal_blog/static/css/main.ff325217.css.map",
-    "main.f67997b8.js.map": "/Sumerskaya_UN_personal_blog/static/js/main.f67997b8.js.map"
+    "main.433db999.css.map": "/Sumerskaya_UN_personal_blog/static/css/main.433db999.css.map",
+    "main.3f54b78e.js.map": "/Sumerskaya_UN_personal_blog/static/js/main.3f54b78e.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff325217.css",
-    "static/js/main.f67997b8.js"
+    "static/css/main.433db999.css",
+    "static/js/main.3f54b78e.js"
   ]
 }
